@@ -145,3 +145,11 @@ Before zipping and submitting:
 ---
 
 *Graduate Course: Real-Time Data Analytics for IoT · Module 1*
+
+# Module 1 Assignment — SmartFactory IoT Protocol Integration
+
+Student Name: Seyedeh Rojan Razavi
+Student ID: 101001141
+
+GitHub Repository:
+https://github.com/rojanrazaviii/Assignment-2-IoT-101001141
